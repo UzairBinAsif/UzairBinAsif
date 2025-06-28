@@ -81,12 +81,15 @@
 </div>
 
 <br/>
-<br/>
-
-[![Snake Update Status](https://github.com/UzairBinAsif/UzairBinAsif/actions/workflows/snake.yml/badge.svg)](https://github.com/UzairBinAsif/UzairBinAsif/actions)
-
 <br clear="both">
 
-![Contribution Snake](https://github.com/UzairBinAsif/UzairBinAsif/blob/output/github-contribution-grid-snake.svg)
+<source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github.com/UzairBinAsif/UzairBinAsif/blob/output/github-contribution-grid-snake-dark.svg"
+  />
+<source
+    media="(prefers-color-scheme: light)"
+    srcset="https://github.com/UzairBinAsif/UzairBinAsif/blob/output/github-contribution-grid-snake.svg"
+  />
 
 ###
