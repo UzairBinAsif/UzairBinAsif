@@ -83,13 +83,6 @@
 <br/>
 <br clear="both">
 
-<source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github.com/UzairBinAsif/UzairBinAsif/blob/output/github-contribution-grid-snake-dark.svg"
-  />
-<source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github.com/UzairBinAsif/UzairBinAsif/blob/output/github-contribution-grid-snake.svg"
-  />
+![Contribution Snake](https://github.com/UzairBinAsif/UzairBinAsif/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
