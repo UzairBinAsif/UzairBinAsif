@@ -85,4 +85,15 @@
 
 ![Contribution Snake](https://github.com/UzairBinAsif/UzairBinAsif/blob/output/github-contribution-grid-snake-dark.svg)
 
-###
+<br/>
+
+## ❤ Views and Followers
+<a href="https://github.com/UzairBinAsif">
+    <img src="https://komarev.com/ghpvc/?username=UzairBinAsif">
+</a>
+<a href="https://github.com/UzairBinAsif?tab=followers"><img src="https://img.shields.io/github/followers/UzairBinAsif?label=Followers&style=social" alt="GitHub Badge"></a>
+
+
+ <br/>
+
+ <img align='center'  height="70" alt="Thanks" width="100%" src="./Thanks.svg"/>  
