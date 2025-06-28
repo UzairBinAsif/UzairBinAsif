@@ -85,6 +85,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/UzairBinAsif/UzairBinAsif/blob/output/github-contribution-grid-snake.svg)
+![Contribution Snake](https://github.com/UzairBinAsif/UzairBinAsif/blob/output/snake.svg)
 
 ###
