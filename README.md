@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">, I'm Uzair Bin Asif</h1>
 
 <p align="center">
-<a href="https://github.com/aliaftabsheikh"><img src="https://readme-typing-svg.herokuapp.com/?lines=Next%20Js%20Developer;Agentic%20AI%20Engineer;Self-Learned-Programmer;1.5%20years%20of%20coding%20experience;Web-Developer%20;Python%20and%20Google%20Cloud%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22"></a>
+<a href="https://github.com/aliaftabsheikh"><img src="https://readme-typing-svg.herokuapp.com/?lines=Next%20Js%20Developer;Agentic%20AI%20Engineer;Self-Learned-Programmer;1.5%20years%20of%20coding%20experience;Web-Developer%20;Python%20%26%20Google%20Cloud%20Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=0844a3&vCenter=true&size=22"></a>
 </p>
 
 ## About Me
