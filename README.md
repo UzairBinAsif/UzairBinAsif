@@ -83,6 +83,8 @@
 <br/>
 <br/>
 
+[![Snake Update Status](https://github.com/UzairBinAsif/UzairBinAsif/actions/workflows/snake.yml/badge.svg)](https://github.com/UzairBinAsif/UzairBinAsif/actions)
+
 <br clear="both">
 
 ![Contribution Snake](https://github.com/UzairBinAsif/UzairBinAsif/blob/output/snake.svg)
