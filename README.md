@@ -7,7 +7,7 @@
 ## About Me
 
 - 🎓 I’m currently learning **Agentic and Robotics AI Engineering** from GIAIC
-- 🎓 Also Learning Modern **Web n App Development** from SMIT
+- 🎓 Also Learning **Modern Web n App Development** from SMIT
 - 👯 I’m looking to collaborate on **Web Development / AI Projects**
 - 📫 Reach me on **shaikhuzairasif14@gmail.com**
 
